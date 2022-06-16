@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\rober\Desktop\app\Project1\Project1\MyForm.cpp(10,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\rober\Desktop\app\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 1 unresolved externals
